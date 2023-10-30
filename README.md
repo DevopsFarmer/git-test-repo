@@ -19,3 +19,9 @@
 5. **A successful Git branching model using a branching strategy in a structured way - TutorialsTeacher**: This article presents a comprehensive overview of branching strategies, their advantages, and best practices. [Read it here.](https://www.tutorialsteacher.com/git/git-branching-strategy)
 
 Each of these resources offers valuable insights into different branching models, allowing you to choose the one that best fits your project's requirements and team workflow.
+
+
+
+# Contributors
+@Omprakash Paliwal
+@Devopsfarm
