@@ -24,4 +24,7 @@ Each of these resources offers valuable insights into different branching models
 
 # Contributors
 @Omprakash Paliwal
+
 @Devopsfarm
+
+https://github.com/shivamggiitthhuubb
